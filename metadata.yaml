@@ -1,5 +1,8 @@
 _repo: The-curse-of-the-Reckaviles_72629
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72629-h/images/cover.jpg
 creator:
   author:
     agent_name: Masterman, Walter S. (Walter Sidney)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56012'
     url: http://www.gutenberg.org/2009/agents/56012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72629#The-curse-of-the-Reckaviles
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
